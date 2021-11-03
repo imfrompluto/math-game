@@ -1,0 +1,38 @@
+h6, button{
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+body{ 
+    background-color: thistle;
+}
+
+h6{
+    color: darkorchid;
+}
+h2, h3, h4{
+    font-family: 'M PLUS 1p', sans-serif;
+    color: white;
+}
+
+form{
+    /* background-color: white; */
+    width: 90%;
+    max-width: 500px;
+}
+#submitButton{
+    display: block;
+}
+
+#MathForBeginners{
+    display: block;
+}
+
+button, input{
+border: 4px solid darkviolet;
+border-radius: 10px;
+line-height: 25px;
+padding: 0 10px;
+margin: 5px 2px;
+color: darkviolet;
+outline: none;
+}
